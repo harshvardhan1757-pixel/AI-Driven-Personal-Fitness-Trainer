@@ -31,6 +31,22 @@ This project directly implements the following topics from our course syllabus:
 4. **Production Rules:** Logic-based constraints (e.g., *IF* Chest was worked, *THEN* prioritize Triceps).
 
 ---
+### Customization
+
+- You can freely modify priorities, change color codes, or customize task fields by editing `task_manager.py`.
+
+---
+
+### License
+
+This project is distributed for educational and personal use. Modify and share freely.
+
+---
+
+### Author
+
+Created by [Name- Harsh Vardhan Rai REGISTRATION NUMBER- 25BAI10401].
+For feedback or suggestions, open an issue or contact directly.
 
 ## 📂 Repository Structure
 ```text
@@ -41,4 +57,5 @@ This project directly implements the following topics from our course syllabus:
 ├── docs/
 │   └── Project_Report.pdf # Detailed academic report
 ├── README.md              # Project documentation
-└── requirements.txt       # Necessary Python libraries
+└── requirements.txt       # Necessary Python libraries 
+
